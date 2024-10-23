@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KASDLab13", "KASDLab13.csproj", "{C570828A-6C97-4D99-9200-93A506BE780C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C570828A-6C97-4D99-9200-93A506BE780C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C570828A-6C97-4D99-9200-93A506BE780C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C570828A-6C97-4D99-9200-93A506BE780C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C570828A-6C97-4D99-9200-93A506BE780C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE6D8375-8FFD-49C2-B070-9B9D9A417E91}
+	EndGlobalSection
+EndGlobal
